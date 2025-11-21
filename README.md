@@ -6,7 +6,7 @@ This project contains the lab5 codes for "Assignment 2".
 
 **concepts:**
 
-Process creation using ```c fork() ```
+Process creation using ``` fork() ```
 
 Running & Stopping processes in the background
 
