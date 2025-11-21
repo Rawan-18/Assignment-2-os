@@ -7,8 +7,11 @@ This project contains the lab5 codes for "Assignment 2".
 **concepts:**
 
 Process creation using ```c fork() ```
+
 Running & Stopping processes in the background
+
 Compile and link two separate c files together
+
 A simple program and inspect the libraries it uses with ldd
 
 ## Installation
