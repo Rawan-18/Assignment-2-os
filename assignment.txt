@@ -1,0 +1,11 @@
+Linker-> collect all objects codes, files to one single executable file
+
+Loader-> load executable file and standard libraries into memory and preparing them for execution
+
+ex1->is to create child process from parent process and get process id by fork()
+
+ex2-4->Start and Stop Pausing and Resuming a Process
+
+ex5->Compile and link two separate c files together
+
+ex6->a simple program and inspect the libraries it uses with ldd
